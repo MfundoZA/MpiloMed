@@ -1,8 +1,10 @@
-package com.mfundoza.mpilomed;
+package com.mfundoza.mpilomed.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.mfundoza.mpilomed.R;
 
 public class MainActivity extends AppCompatActivity {
 
