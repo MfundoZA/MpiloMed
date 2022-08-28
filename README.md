@@ -17,7 +17,7 @@ As well as features that can help our users stay organized such as:
  * Appointment scheduling and reminders
  * Reminders to take their medication
 
-Made in collaboration with:
+## Made in collaboration with:
  * [Linda Mahlangu](https://github.com/LindaPungutsha)
  * [Zintle Mzondo](https://github.com/ZeeMzondo)
  * [Luyanda Xhakaza](https://github.com/luyandaaaa)
