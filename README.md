@@ -23,3 +23,4 @@ As well as features that can help our users stay organized such as:
  * [Luyanda Xhakaza](https://github.com/luyandaaaa)
  * [Paballo Mathipa](https://github.com/PabiMathipa)
  * [Mavasa Musa Royal Desireh](https://github.com/Musaroyal)
+ * [Kgothatso Tshabangu](https://github.com/KgothatsoTshabangu1)
