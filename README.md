@@ -22,4 +22,4 @@ As well as features that can help our users stay organized such as:
  * [Zintle Mzondo](https://github.com/ZeeMzondo)
  * [Luyanda Xhakaza](https://github.com/luyandaaaa)
  * [Paballo Mathipa](https://github.com/PabiMathipa)
- * [Mavasa Musa Royal Desirej](https://github.com/Musaroyal)
+ * [Mavasa Musa Royal Desireh](https://github.com/Musaroyal)
