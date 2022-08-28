@@ -1,5 +1,7 @@
 # Mpilo-Med
 
+![Mpilo-Med logo](/images/MpiloMed%20logo.png)
+
 ## Description
 
 Mpilo-Med is a system built to bring access to healthcare to all South Africans with cutting-edge technology that will allow our users to save time and money when seeking medical attention.
