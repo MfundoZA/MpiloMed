@@ -1,6 +1,6 @@
 # Mpilo-Med
 
-(/images/MpiloMed%20logo.png)
+![Mpilo-Med Logo](/images/MpiloMed%20logo.png)
 
 ## Description
 
